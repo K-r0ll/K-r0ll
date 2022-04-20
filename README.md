@@ -2,8 +2,8 @@
 -        ✈️ Aeronautical engineer at the Polish Air Force Academy,
 -        💻 During the master's degree in IT at the University of Gdansk.  
 - 👀 I’m interested in making Neapolitan pizza🍕
-- 🌱 I'm currently learning how to become Java Developer⌛
-- 💞️ I’m looking to collaborate on getting experience in Java Projects.
+- 🌱 I'm currently learning how to become better Java Developer⌛
+- 💞️ I’m looking to collaborate on getting experience in projects.
 - 📫 How to reach me, send me e-mail💸💸💸💸💸! 📧 kmkarol7@gmail.com
 
 <!---
