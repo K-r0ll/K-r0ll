@@ -1,4 +1,4 @@
-👋 Hi, I’m Karol Miller and I'm currently working as junior software technology in Java / Spring / Hibernate, and I develop my knoweledge about Node JS and VUE
+👋 Hi, I’m Karol Miller and I'm currently working as junior software developer in technology Java / Spring / Hibernate, and I develop my knoweledge about Node JS and VUE
 -        ✈️ Aeronautical engineer at the Polish Air Force Academy,
 -        💻 During the master's degree in IT at the University of Gdansk.  
 - 👀 I’m interested in making Neapolitan pizza🍕
